@@ -54,7 +54,7 @@ module.exports = class UserController {
 
       return res.status(200).json(currentUser);
     } catch (error) {
-      console.log("ERRO REAL DO BACKEND:", error);
+      console.log(error);
       return res.status(401).json({
         message: "Token inválido!",
       });
