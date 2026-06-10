@@ -11,6 +11,9 @@
 # production
 /build
 
+/public/*
+!/public/.gitkeep
+
 # misc
 .DS_Store
 .env.local
