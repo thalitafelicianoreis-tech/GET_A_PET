@@ -7,10 +7,10 @@
 /frontend/build
 
 # Images
-/backend/public/images/user/*
+/backend/public/images/users/*
 /backend/public/images/pets/*
-!/backend/public/images/user/.gitkeep
-!/backend/public/images/pet/.gitkeep
+!/backend/public/images/users/.gitkeep
+!/backend/public/images/pets/.gitkeep
 
 # Environment
 .env
