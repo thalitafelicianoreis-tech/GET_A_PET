@@ -8,7 +8,7 @@
 
 # Images
 /backend/public/images/user/*
-/backend/public/images/pet/*
+/backend/public/images/pets/*
 !/backend/public/images/user/.gitkeep
 !/backend/public/images/pet/.gitkeep
 
